@@ -1,0 +1,89 @@
+---
+title: "article-outline"
+format: html
+editor: visual
+---
+
+# Introduction
+
+-   Introduces Extreme Event Attribution (EEA)
+
+-   Introduces how the paper's main topic is the statistical methods behind EEA
+
+-   Introduces the next section: Basic Setups
+
+# Basic Setups
+
+-   Shows how EEAs are setup
+
+-   References other articles and their use of statistics regarding EEAs
+
+# Climate Data Types
+
+-   Introduces the section and problem with climate data
+
+-   Problem with climate data: Not consistent and reliable especially when trying to determine which events are human related
+
+## Model errors and uncertainty
+
+-   Three datasets were analyzed and common errors in the data were listed
+
+## Data types
+
+-   EEA data types are introduced
+
+## Variables of interest and their distributions
+
+-   From other articles, important variables and their extremes were gathered
+
+# Event Definitions
+
+-   Introduces the techniques to define and event
+
+## Events based on weather types
+
+-   Referenced a statistical method from another article to measure areas around the weather event
+
+## Record events
+
+-   Explores how record events can impact and move the threshold for an extreme event
+
+# Statistical Methods
+
+-   Introduces the section, statistical methods
+
+## Non-parametric approaches
+
+-   Introduces non parametric approaches in context of EEA
+
+-   Shows current methods
+
+-   Explains ways to use new methods
+
+## Univariate extreme value theory
+
+-   References a past article that went in depth on univariate EVT
+
+-   In terms of EEA, EVT has not been implemented to the fullest extent
+
+-   Several reasons are listed for EEA community not using EVT
+
+## Hierarchical modeling
+
+-   Authors could not find hierarchical methods being used in EEA
+
+-   hierarchical has been used in other climate related studies and seems to be effective, promising for implementation in EEA
+
+## Multivariate EVT
+
+-   Multivariate EVT also has yet to be implemented in EEA
+
+-   In depth example is given in order to implement
+
+# Conclusions
+
+-   The future of statistics in EEA is promising
+
+-   Many challenges and points that needed more statistical development were listed
+
+-   Future challenges and issues were also listed

@@ -9,18 +9,26 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@naveau2020
 
 # References
 
-@ref1
+## Article 1
 
-- Summary
+### On tail trend detection: modeling relative risk
 
-- Reliability and relationship to the topic
+*On tail trend detection: modeling relative risk* aims to estimate trends in extreme value theory. The authors reference several other articles that aim to do the same. However they set themselves apart by getting results that are directly interpretable, asymptotic justification, and discussing existing findings are not satisfactory @dehaan2015.\
+\
+This article appears reliable as the authors are all members of a university and the article was published by a credible publisher, Springer Science+Business media. On top of that, they reference several other articles. This article relates to the main article in it's implementation and methodology of estimating extreme value theory, which the main article references directly\
+\
+To understand the article better, I would need to have a clear understanding of extreme value theory. I would also need to have a better understanding of statistical notation to fully understand the results and methods section.
 
-- Missing pieces
-    - thing 1
+## Article 2
 
-    - thing 2
+### Defining single extreme weather events in a climate perspective
+
+The article *Defining single extreme weather events in a climate perspective* outlines four steps for defining extreme events. The four are as follows, selecting the variable to measure, a null probability for the event must be considered, is the event defined conditionally by the current state of the climate, and defining the spatiotemporal scale of the event @cattiaux2018.\
+\
+The article seems reliable as it is posted to the American Meteorological Society's website. Also, the authors come from acedemia and use several references. This article relates to the main article since the main article covers statistical methods for extreme climate events and in order to do that you need to first define the extreme events.\
+\
+To understand the article better, I would need to look up what spatiotemporal means. I would also need to figure out the acronyms or meanings for RR and FAR.
