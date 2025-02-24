@@ -1,0 +1,18 @@
+---
+title: "Annual Review Rhetoric: Statistical Methods for Extreme Event Attribution in Climate Science"
+format: html
+editor: visual
+author: "Grey Gergen"
+bibliography: references.bib
+---
+
+In the introduction of *Statistical Methods for Extreme Event Attribution in Climate Science* the authors state their general claim. They explain that they have reviewed extreme event attribution (EEA) articles and their statistical methods and are attempting to bridge a gap between statistics and climate research @naveau2020. I'd say the authors did an excellent job of upholding this claim. I'd say the authors did an excellent job of upholding this claim. Throughout the article several references were made to EEA articles as well as statistical articles. In these references the authors made connections between the two topics and highlighted the statistical methods used. Also, at the end of the article, the authors made a list of points that need more statistical development and a list of other challenges that could use statistical development.
+
+\
+In the conclusion of the article, the authors state that the use of numerical models and reanalysis products in the climate community, with higher accuracy in terms of the spatial and temporal resolution, will likely increase in the coming years @naveau2020. While most of the evidence presented in the article points to this, I think it is a baseless claim to be included in a research paper. No one can truly predict the future. Also, throughout the article, no specific evidence points to this. The authors do not attempt to look at historical trends on implementing these methods. Although they do state “likely increase” I still do not like how it just feels like a filler sentence. Even after the claim is made nothing is stated to back it up.
+
+At the beginning of the conclusion the authors state that from a statistical point of view, the field of EEA represents rich territory @naveau2020. Which I believe is a solid claim. Throughout the entire article the authors are able to show many different ways for statistics to be implemented in EEA, in improved ways as well as in brand new ways. As mentioned before, a list was provided of specific EEA statistical methods that could be improved and a list of new ways to implement statistics on certain aspects of EEA. After this claim is made, the authors go into more detail and reference past evidence that was brought up in the article earlier.
+
+## References
+
+@naveau2020
